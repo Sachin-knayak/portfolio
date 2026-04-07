@@ -26,12 +26,23 @@
     max-width: 100%;
     border-radius: 10px;
     margin: 150px;
+    
 
+}
+
+#sk{
+    color: rgb(17, 71, 231);
+    font-size: x-large;
+    font-weight: 800;
+}
+#sk:hover{
+    color: rgb(212, 219, 219);
 }
 
 .navbar-brand {
     font-weight: bold;
     font-size: 24px;
+    
 }
 
 .about-section {
